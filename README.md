@@ -1,1 +1,1 @@
-# LordOfTheRings-App
+# LordOfTheRingsApp
